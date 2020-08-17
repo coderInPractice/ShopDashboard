@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShopDashboard</string>
+    <string name="dashboard_text">Dashboard</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="caution_note">Tap on item for share..</string>
+</resources>
